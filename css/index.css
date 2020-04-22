@@ -1,8 +1,63 @@
-p{
+p.sub-title1{
     font-size: 25;
+    color:blue;
 }
 
-span{
-    color: pink;
+p#sub-title2{
+    color: violet;
+}
+
+.company{
+    color: olive;
     font-weight: bold;
+    font-size: larger;
+}
+
+div.box1{
+    height: 100px;
+    width: 100px;
+    background-color:green;
+    border-radius: 10px 50px 50px 50px;
+    position: absolute;
+    left: 35%;
+    top: 30%;
+    margin: 0;
+   
+}
+div.box2{
+    height: 100px;
+    width: 100px;
+    background-color:green;
+    border-radius: 50px 10px 50px 50px;
+    position: absolute;
+    left: 20%;
+    top: 30%;
+    margin: 0;
+}
+div.box3{
+    height: 100px;
+    width: 100px;
+    background-color:green;
+    border-radius: 50px 50px 10px 50px;
+    position: absolute;
+    left: 20%;
+    top: 12%;
+    margin: 0;
+}
+div.box4{
+    height: 100px;
+    width: 100px;
+    background-color:green;
+    border-radius: 50px 50px 50px 10px;
+    position: absolute;
+    left: 35%;
+    top: 12%;
+    margin: 0;
+}
+
+div.box5{
+    height: 100px;
+    width: 100px;
+    background-color:red;
+    border-radius: 50px
 }
